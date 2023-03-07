@@ -1,4 +1,5 @@
 # bubble_sort<br>
+Java 버불정렬<br>
 ## 버블 정렬(bubble sort) 알고리즘의 개념 요약<br>
 
 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘<br>
