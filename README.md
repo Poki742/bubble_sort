@@ -56,5 +56,5 @@ public class bubble_sort {
 4 회전 정렬 : [1, 2, 3, 4, 5]<br>
 5 회전 정렬 : [1, 2, 3, 4, 5]<br>
 ## 실행된 이미지<br>
-![image](https://user-images.githubusercontent.com/126844692/223325783-ccfadc6e-911a-42ed-a2ba-4d69f8334b6b.png)
+![image](https://user-images.githubusercontent.com/126844692/223328582-a7393472-1092-48d1-bf4d-001b9f3ac5d7.png)
 
