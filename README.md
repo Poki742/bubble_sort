@@ -21,9 +21,9 @@ Java 버블 정렬<br>
 첫 번째의 1과 두 번째의 3을 비교하여 교환하지 않는다.<br>
 ## for문<br>
 
-package 자바;
-import java.util.Arrays;
-public class bubble_sort {
+package 자바;<br>
+import java.util.Arrays;<br>
+public class bubble_sort {<br>
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
